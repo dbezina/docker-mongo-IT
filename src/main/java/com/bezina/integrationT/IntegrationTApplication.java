@@ -1,0 +1,13 @@
+package com.bezina.integrationT;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IntegrationTApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(IntegrationTApplication.class, args);
+	}
+
+}
