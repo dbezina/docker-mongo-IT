@@ -1,8 +1,8 @@
-package com.bezina.integrationT.controller;
+package com.bezina.jobservice.controller;
 
 
-import com.bezina.integrationT.dto.JobDto;
-import com.bezina.integrationT.service.JobService;
+import com.bezina.jobservice.dto.JobDto;
+import com.bezina.jobservice.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

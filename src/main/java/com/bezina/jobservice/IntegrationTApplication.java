@@ -1,4 +1,4 @@
-package com.bezina.integrationT;
+package com.bezina.jobservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

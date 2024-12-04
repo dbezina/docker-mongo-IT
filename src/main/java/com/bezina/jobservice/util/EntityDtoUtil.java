@@ -1,8 +1,8 @@
-package com.bezina.integrationT.util;
+package com.bezina.jobservice.util;
 
 
-import com.bezina.integrationT.dto.JobDto;
-import com.bezina.integrationT.entity.Job;
+import com.bezina.jobservice.dto.JobDto;
+import com.bezina.jobservice.entity.Job;
 import org.springframework.beans.BeanUtils;
 
 public class EntityDtoUtil {

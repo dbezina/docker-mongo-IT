@@ -1,7 +1,7 @@
-package com.bezina.integrationT.repository;
+package com.bezina.jobservice.repository;
 
 
-import com.bezina.integrationT.entity.Job;
+import com.bezina.jobservice.entity.Job;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Flux;

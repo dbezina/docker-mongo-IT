@@ -1,4 +1,4 @@
-package com.bezina.integrationT.util;
+package com.bezina.jobservice.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

@@ -1,8 +1,8 @@
-package com.bezina.integrationT.service;
+package com.bezina.jobservice.service;
 
-import com.bezina.integrationT.dto.JobDto;
-import com.bezina.integrationT.repository.JobRepository;
-import com.bezina.integrationT.util.EntityDtoUtil;
+import com.bezina.jobservice.dto.JobDto;
+import com.bezina.jobservice.repository.JobRepository;
+import com.bezina.jobservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
